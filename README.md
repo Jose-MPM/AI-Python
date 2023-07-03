@@ -3,8 +3,10 @@
 ## Structure
 
 * Basic
-    - 
-    - 
+    - Conceptos básicos de probabilidad y estadística
+    - Correlación y distribuciones
+    - k-means and k-medoids
+    - ADD-BA
     - 
 * gpt2-diagnosis
 
