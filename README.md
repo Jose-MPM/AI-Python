@@ -19,7 +19,6 @@ Welcome to the AI-Python repository, a collection of Python projects related to 
     - [Ejercicios_Repaso_Python](Neuronal-Networks/Ejercicios_Repaso_Python.ipynb): Jupyter Notebook containing Python review exercises.
     - [Mathematical Building Blocks](Neuronal-Networks/mathematical_building_blocks_i.ipynb): Jupyter Notebook covering mathematical foundations for neural networks.
 
-
 * **Basic**
     - [Conceptos básicos de probabilidad y estadística](Basic/Conceptos%20basicos%20de%20probabilidad%20y%20estadistica.ipynb): Jupyter Notebook covering fundamental concepts in probability and statistics, such as random variables, distribution function, correlation, etc.
     - [Correlación y distribuciones](Basic/Correlacion%20y%20distribuciones.ipynb) Jupyter Notebook exploring correlation and probability distributions.
